@@ -6,22 +6,26 @@
       {
         "id": "1",
         "name": "Kobo Kanaeru",
-        "image": "https://yt3.googleusercontent.com/Zi6DMbqTrk8jpNKnJgbw_NxGnggsKX1omQnPeHxrZTmrVmon7zfmg5Q4XbqsHO9AMidW49zCPw=s900-c-k-c0x00ffffff-no-rj"
+        "image": "https://yt3.googleusercontent.com/Zi6DMbqTrk8jpNKnJgbw_NxGnggsKX1omQnPeHxrZTmrVmon7zfmg5Q4XbqsHO9AMidW49zCPw=s900-c-k-c0x00ffffff-no-rj",
+        "status": "Shaman Hujan dari Hololive Indonesia"
       },
       {
         "id": "2",
         "name": "Mythia Batford",
-        "image": "https://yt3.googleusercontent.com/wZwPuY50ABf7T2dDNhayZ827yJHjNWAm6YEshfM-PMLOSR-lVwGcsuoT8yzRZQxlRQYbthcT3w=s900-c-k-c0x00ffffff-no-rj"
+        "image": "https://yt3.googleusercontent.com/wZwPuY50ABf7T2dDNhayZ827yJHjNWAm6YEshfM-PMLOSR-lVwGcsuoT8yzRZQxlRQYbthcT3w=s900-c-k-c0x00ffffff-no-rj",
+        "status": "Darah muda"
       },
       {
         "id": "3",
         "name": "Risu",
-        "image": "https://yt3.googleusercontent.com/ytc/APkrFKauJEqNEZ74XHm0BNKrX9LmazKqvxn_qDT4e7MydQ=s900-c-k-c0x00ffffff-no-rj"
+        "image": "https://yt3.googleusercontent.com/ytc/APkrFKauJEqNEZ74XHm0BNKrX9LmazKqvxn_qDT4e7MydQ=s900-c-k-c0x00ffffff-no-rj",
+        "status": "Tiap Hari Makan Kacang"
       },
       {
         "id": "4",
         "name": "Vestia Zeta",
-        "image": "https://yt3.googleusercontent.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s900-c-k-c0x00ffffff-no-rj"
+        "image": "https://yt3.googleusercontent.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s900-c-k-c0x00ffffff-no-rj",
+        "status": "Top Secret Agent"
       }
     ]
   },
@@ -32,17 +36,20 @@
       {
         "id": "5",
         "name": "Alpha",
-        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0c84e47a-91ea-4eb3-89ac-7bb765ccbf19/dfn4tnc-bfe1e2f8-e7f5-42c7-a105-b2cc8cf93910.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBjODRlNDdhLTkxZWEtNGViMy04OWFjLTdiYjc2NWNjYmYxOVwvZGZuNHRuYy1iZmUxZTJmOC1lN2Y1LTQyYzctYTEwNS1iMmNjOGNmOTM5MTAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.muxmC4b0RDqNQZgSOEBGiT6NtkXrD2mMPsH49YXXRZI"
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0c84e47a-91ea-4eb3-89ac-7bb765ccbf19/dfn4tnc-bfe1e2f8-e7f5-42c7-a105-b2cc8cf93910.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBjODRlNDdhLTkxZWEtNGViMy04OWFjLTdiYjc2NWNjYmYxOVwvZGZuNHRuYy1iZmUxZTJmOC1lN2Y1LTQyYzctYTEwNS1iMmNjOGNmOTM5MTAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.muxmC4b0RDqNQZgSOEBGiT6NtkXrD2mMPsH49YXXRZI",
+        "status": "Love Shadow-sama"
       },
       {
         "id": "6",
         "name": "Cid Kageno",
-        "image": "https://i.pinimg.com/originals/6d/92/50/6d9250f372cd6caafbac3099550f85d5.jpg"
+        "image": "https://i.pinimg.com/originals/6d/92/50/6d9250f372cd6caafbac3099550f85d5.jpg",
+        "status": "Mager"
       },
       {
         "id": "7",
         "name": "Freiren",
-        "image": "https://i.ytimg.com/vi/n3dEvVDH4rA/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLChsmOf_bck5nTUmtd8vU6ckY7TTA"
+        "image": "https://i.ytimg.com/vi/n3dEvVDH4rA/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLChsmOf_bck5nTUmtd8vU6ckY7TTA",
+        "status": "Waktu Berlalu Cepat"
       }
     ]
   }

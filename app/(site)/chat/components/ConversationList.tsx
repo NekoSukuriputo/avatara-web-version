@@ -9,7 +9,7 @@ import useConversation from "@/app/hooks/useConversations";
 // import GroupChatModal from "@/app/components/modals/GroupChatModal";
 import ConversationBox from "./ConversationBox";
 
-const ConversationList = ({ initialItems }) => {
+const ConversationList = ({ initialItems, title }) => {
   const [items, setItems] = useState(initialItems);
   const [isModalOpen, setIsModalOpen] = useState(false);
 
@@ -42,21 +42,7 @@ const ConversationList = ({ initialItems }) => {
       >
         <div className="px-5">
           <div className="flex justify-between mb-4 pt-4">
-            <div className="text-2xl font-bold text-neutral-800">Messages</div>
-            <div
-              onClick={() => setIsModalOpen(true)}
-              className="
-                rounded-full 
-                p-2 
-                bg-gray-100 
-                text-gray-600 
-                cursor-pointer 
-                hover:opacity-75 
-                transition
-              "
-            >
-              <MdOutlineGroupAdd size={20} />
-            </div>
+            <div className="text-2xl font-bold text-neutral-800">{title}</div>
           </div>
           {items.map((item) => (
             <ConversationBox

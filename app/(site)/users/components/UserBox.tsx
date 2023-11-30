@@ -37,6 +37,9 @@ const UserBox = ({ data }) => {
             <div className="flex justify-between items-center mb-1">
               <p className="text-sm font-medium text-gray-900">{data.name}</p>
             </div>
+            <div>
+              <p className="text-xs font-small text-gray-700">{data.status}</p>
+            </div>
           </div>
         </div>
       </div>
