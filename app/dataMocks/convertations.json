@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1",
+    "user": {
+      "name": "Kobo Kanaeru",
+      "image": "https://yt3.googleusercontent.com/Zi6DMbqTrk8jpNKnJgbw_NxGnggsKX1omQnPeHxrZTmrVmon7zfmg5Q4XbqsHO9AMidW49zCPw=s900-c-k-c0x00ffffff-no-rj"
+    },
+    "messages": [
+      {
+        "body": "Hello",
+        "createdAt": "10.10"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "user": {
+      "name": "Mythia Batford",
+      "image": "https://yt3.googleusercontent.com/wZwPuY50ABf7T2dDNhayZ827yJHjNWAm6YEshfM-PMLOSR-lVwGcsuoT8yzRZQxlRQYbthcT3w=s900-c-k-c0x00ffffff-no-rj"
+    },
+    "messages": [
+      {
+        "body": "Apa kabar?",
+        "createdAt": "11.11"
+      }
+    ]
+  }
+]
