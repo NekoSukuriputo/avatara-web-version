@@ -6,14 +6,8 @@ import useRoutes from "@/app/hooks/useRoutes";
 import { useState } from "react";
 import Avatar from "../Avatar";
 
-interface DesktopSidebarProps {
-  currentUser: {
-    email: string;
-    name: string
-  };
-}
 
-const DesktopSidebar: React.FC<DesktopSidebarProps> = ({ currentUser }) => {
+const DesktopSidebar = ({ currentUser }) => {
   const routes = useRoutes();
   const [isOpen, setIsOpen] = useState(false);
 
@@ -53,7 +47,6 @@ const DesktopSidebar: React.FC<DesktopSidebarProps> = ({ currentUser }) => {
                 label={item.label}
                 icon={item.icon}
                 active={item.active}
-                onClick={item.onClick}
               />
             ))}
           </ul>

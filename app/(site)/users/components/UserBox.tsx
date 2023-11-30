@@ -1,4 +1,3 @@
-import axios from "axios";
 import { useCallback, useState } from "react";
 import { useRouter } from "next/navigation";
 
@@ -10,7 +9,7 @@ const UserBox = ({ data }) => {
 
   const handleClick = useCallback(() => {
     setIsLoading(true);
-    router.push(`/conversations/${data.id}`);
+    router.push(`/chat/${data.id}`);
   }, [data, router]);
 
   return (
