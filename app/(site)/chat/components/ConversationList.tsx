@@ -1,11 +1,9 @@
 "use client";
 
-import { User } from "@prisma/client";
 import { useRouter } from "next/navigation";
 import { useEffect, useMemo, useState } from "react";
 import { MdOutlineGroupAdd } from "react-icons/md";
 import clsx from "clsx";
-import { find, uniq } from "lodash";
 
 import useConversation from "@/app/hooks/useConversations";
 // import GroupChatModal from "@/app/components/modals/GroupChatModal";

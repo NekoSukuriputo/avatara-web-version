@@ -10,7 +10,7 @@ const ConversationBox = ({ data, selected }) => {
   const router = useRouter();
 
   const handleClick = useCallback(() => {
-    router.push(`/conversations/${data.id}`);
+    router.push(`/chat/${data.id}`);
   }, [data, router]);
 
   const lastMessage = useMemo(() => {
